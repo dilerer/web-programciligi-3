@@ -126,7 +126,7 @@ Amacı: Microsoft'un açık kaynaklı, sektörde çok popüler kod editörü.
 
 
 
-Yaklaşık Commit Sayısı: 115.000+
+Yaklaşık Commit Sayısı: 170.000+
 
 
 
