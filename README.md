@@ -90,7 +90,7 @@ Amacı: Etkileşimli kullanıcı arayüzleri oluşturmak.
 
 
 
-Yaklaşık Commit Sayısı: 16.000+
+Yaklaşık Commit Sayısı: 20.000+
 
 
 
@@ -162,7 +162,7 @@ Amacı: SEO dostu, hızlı web uygulamaları geliştirmek.
 
 
 
-Yaklaşık Commit Sayısı: 14.500+
+Yaklaşık Commit Sayısı: 35.000+
 
 
 
