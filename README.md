@@ -208,4 +208,10 @@ GitHub Dokümantasyonları
 
 İncelediğim açık kaynak projelerin repo sayfaları
 
+Microsoft Eğitim Belgeleri. (2026). Monolitik ve Mikroservis Mimariler. https://learn.microsoft.com/tr-tr/dotnet/architecture/microservices/
+
+Agile Alliance. (2025). MoSCoW Önceliklendirme Tekniği ve Gereksinim Analizi. https://www.agilealliance.org/glossary/moscow/
+
+Atlassian Çevik Yönetim Rehberi. Kullanım Senaryoları (Use Cases) ve Proje Yönetimi. https://www.atlassian.com/agile/project-management/use-cases
+
  
